@@ -55,3 +55,78 @@ import qrcode
 ## Running the files:
 1. To run the *Student Management System*, we have to first run *StartingFile.py* which opens
  the home page showing two Login features: *Student* and *Employee*.
+ 
+2. Let’s first understand the features of faculty side, here we have set only one id-password
+for faculty.
+
+Note: You can set it by opening database in command prompt and insert value by sql query.
+Here, default id is “12345” and password is “admin”.
+
+3. If the password entered is incorrect which is not in database of employee table, then error 
+will be displayed as below:
+
+4. After entering correct password as given above, you will have a Menu containing 5 items as 
+below:
+1) Manage Student data.
+2) Manage Attendance.
+3) Manage Marks.
+4) Manage Fee Marks.
+5) Exit
+
+5. Click the Manage Student, and you will have screen as below where you can add, delete and 
+update the data of any student with the details containing roll number, name, gender, email, 
+phone and address, etc. You can also search the data by name, roll number, etc in the tree view.
+
+6. Click the back button and go to the Manage Attendance page where you have to enter the roll 
+number in the text box and click the Check it button after that you can enter the attendance of 
+that student by one radio button, which contains value of present and absent, then click ok
+after entering your choice.
+
+7. If you enter the roll number incorrectly, then you will a below screen:
+
+8. Click the back button and go to the Manage Marks where you can manage the marks of 6 subjects 
+which are pre-defined as DC, DSA, OOPS, DM, POE, etc. It will add all the marks in database of 
+student_marks.
+
+9. Click the back button and go to the managing fees status where you will have to enter the 
+roll number of a student. If, it is present in data, you can enter his fees status and click the 
+ok button.
+
+10. On clicking the exit button, you will be on the screen where you have started named as 
+HomePage, where you can get two choices as student and faculty.
+
+11. Click on the student, enter password and id where password will be your registered phone
+number while filling out the form.
+
+12. If the entered student roll number is not present in the database, then the following screen 
+will be shown:
+
+13. On entering the correct details of the student, the menu of that respective student will be 
+opened, where the options are available as follows:
+1) Generate ID Card.
+2) Show Attendance.
+3) Show Marksheet.
+4) Show Fee Status.
+5) Exit.
+
+14. Click, the Generate Id Card, where ID Card will be generated for that respective student for 
+which you have logged in.
+
+15. Click the back button, go to Show Attendance where you can check your attendance entered by 
+the faculty.
+
+16. Click the back button, and go to the marksheet menu, where the student can get his/her 
+marksheet as per the given marks by the faculty.
+
+17. If the student is failed in any of the subject, then he will have red coloured marks, and 
+even the total grade will be IF as shown in marksheet.
+
+18. Here, fees details will be shown to the student as per the details shown below. We have also 
+attached the functionality to check if the fees details are not entered by the faculty, then it 
+will show the message that “Fees details are not available”.
+
+
+
+## Conclusion
+Thus, this is the python based GUI project which shows the functionality of student 
+management system developed with the help of tkinter, PIL, sqlite3 and qrcode.
