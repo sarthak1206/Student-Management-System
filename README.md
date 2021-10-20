@@ -68,14 +68,14 @@ for faculty.
 Note: You can set it by opening database in command prompt and insert value by sql query.
 Here, default id is “12345” and password is “admin”.
 
-<img src="Management System/Screenshot/SS2.png" width="735" height="392">
+<img src="Management System/Screenshot/SS2.png">
  
  <br/>
 
 3. If the password entered is incorrect which is not in database of employee table, then error 
 will be displayed as below:
 
-<img src="Management System/Screenshot/SS3.png" width="735" height="392">
+<img src="Management System/Screenshot/SS3.png">
  
  <br/>
 
@@ -87,7 +87,7 @@ below:
 4) Manage Fee Marks.
 5) Exit
 
-<img src="Management System/Screenshot/SS4.png" width="735" height="392">
+<img src="Management System/Screenshot/SS4.png">
  
  <br/>
 
@@ -95,7 +95,7 @@ below:
 update the data of any student with the details containing roll number, name, gender, email, 
 phone and address, etc. You can also search the data by name, roll number, etc in the tree view.
 
-<img src="Management System/Screenshot/SS5.png" width="735" height="392">
+<img src="Management System/Screenshot/SS5.png">
  
  <br/>
 
@@ -104,13 +104,13 @@ number in the text box and click the Check it button after that you can enter th
 that student by one radio button, which contains value of present and absent, then click ok
 after entering your choice.
 
-<img src="Management System/Screenshot/SS6.png" width="735" height="392">
+<img src="Management System/Screenshot/SS6.png">
  
  <br/>
 
 7. If you enter the roll number incorrectly, then you will a below screen:
 
-<img src="Management System/Screenshot/SS7.png" width="735" height="392">
+<img src="Management System/Screenshot/SS7.png">
  
  <br/>
 
@@ -118,7 +118,7 @@ after entering your choice.
 which are pre-defined as DC, DSA, OOPS, DM, POE, etc. It will add all the marks in database of 
 student_marks.
 
-<img src="Management System/Screenshot/SS8.png" width="735" height="392">
+<img src="Management System/Screenshot/SS8.png">
  
  <br/>
 
@@ -126,28 +126,28 @@ student_marks.
 roll number of a student. If, it is present in data, you can enter his fees status and click the 
 ok button.
 
-<img src="Management System/Screenshot/SS9.png" width="735" height="392">
+<img src="Management System/Screenshot/SS9.png">
  
  <br/>
 
 10. On clicking the exit button, you will be on the screen where you have started named as 
 HomePage, where you can get two choices as student and faculty.
 
-<img src="Management System/Screenshot/SS10.png" width="735" height="392">
+<img src="Management System/Screenshot/SS10.png">
  
  <br/>
 
 11. Click on the student, enter password and id where password will be your registered phone
 number while filling out the form.
 
-<img src="Management System/Screenshot/SS11.png" width="735" height="392">
+<img src="Management System/Screenshot/SS11.png">
  
  <br/>
 
 12. If the entered student roll number is not present in the database, then the following screen 
 will be shown:
 
-<img src="Management System/Screenshot/SS12.png" width="735" height="392">
+<img src="Management System/Screenshot/SS12.png">
  
  <br/>
 
@@ -159,35 +159,35 @@ opened, where the options are available as follows:
 4) Show Fee Status.
 5) Exit.
 
-<img src="Management System/Screenshot/SS13.png" width="735" height="392">
+<img src="Management System/Screenshot/SS13.png">
  
  <br/>
 
 14. Click, the Generate Id Card, where ID Card will be generated for that respective student for 
 which you have logged in.
 
-<img src="Management System/Screenshot/SS14.png" width="735" height="392">
+<img src="Management System/Screenshot/SS14.png">
  
  <br/>
 
 15. Click the back button, go to Show Attendance where you can check your attendance entered by 
 the faculty.
 
-<img src="Management System/Screenshot/SS15.png" width="735" height="392">
+<img src="Management System/Screenshot/SS15.png">
  
  <br/>
 
 16. Click the back button, and go to the marksheet menu, where the student can get his/her 
 marksheet as per the given marks by the faculty.
 
-<img src="Management System/Screenshot/SS16.png" width="735" height="392">
+<img src="Management System/Screenshot/SS16.png">
  
  <br/>
 
 17. If the student is failed in any of the subject, then he will have red coloured marks, and 
 even the total grade will be IF as shown in marksheet.
 
-<img src="Management System/Screenshot/SS17.png" width="735" height="392">
+<img src="Management System/Screenshot/SS17.png">
  
  <br/>
 
@@ -195,7 +195,7 @@ even the total grade will be IF as shown in marksheet.
 attached the functionality to check if the fees details are not entered by the faculty, then it 
 will show the message that “Fees details are not available”.
 
-<img src="Management System/Screenshot/SS18.png" width="735" height="392">
+<img src="Management System/Screenshot/SS18.png">
  
  <br/>
 
