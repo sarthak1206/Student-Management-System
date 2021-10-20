@@ -21,7 +21,8 @@ Remaining.
 <br />
 
 2. Employee Login: The username will be **12345** and Password **admin**.
- * (Note: this username and password are just taken as sample)
+   <br/>
+   (Note: this username and password are just taken as sample)
  * *Manage Marks*: Which manages the Marks of the Student i.e.
  (Allows the employee to edit the marks).
  * *Manage Attendance*: Which handles the attendance of all the Students.
@@ -55,6 +56,8 @@ import qrcode
 ## Running the files:
 1. To run the *Student Management System*, we have to first run *StartingFile.py* which opens
  the home page showing two Login features: *Student* and *Employee*.
+ 
+ ![Screenshot1](Management System/Screenshot/SS1.png)
  
 2. Let’s first understand the features of faculty side, here we have set only one id-password
 for faculty.
