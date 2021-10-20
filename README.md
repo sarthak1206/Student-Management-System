@@ -58,7 +58,7 @@ import qrcode
 1. To run the *Student Management System*, we have to first run *StartingFile.py* which opens
  the home page showing two Login features: *Student* and *Employee*.
  
- <img src="Management System/Screenshot/SS1.png" width="735" height="392">
+ <img src="Management System/Screenshot/SS1.png">
  
  <br/>
  
