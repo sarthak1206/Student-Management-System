@@ -1,13 +1,13 @@
 # Student-Management-System
 
-## Group Members:
+## Group Members
 
 >1. 19BCE183 - Patel Sarthak
 >2. 19BCE195 - Patel Jinil
 >3. 19BCE220 - Rana Yash
 
 
-## Project Description:
+## Project Description
 
 >In our project *Student Management System* has Following features:
 1. Student Login: The username of the student will be his *Roll No* and password will be his
